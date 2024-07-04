@@ -36,3 +36,6 @@ Benjamin A. Adler*,  Muntathar J. Al-Shimary*, Jaymin R. Patel, Emily Armbruster
 
 8. Data can be analyzed here without further processing, but if you wish to make Fit, Semi-Fit, or Not Fit fitness calls you can run the following where CONDITION is an experimental condition for further analysis (see examples in metadata), FIT_THRESH is your desired fitness threshold and PVAL_THRESH is your desired pvalue:
 > python crispri-art_fitness_thresholding.py --input_fitness SAMPLE_PROJECT/data/fitness/RUN/LIBRARY/gene_fitness/fitness_genes.tsv --condition CONDITION --fitness_threshold FIT_THRESH --pval PVAL_THRESH --output SAMPLE_PROJECT/data/fitness/RUN/LIBRARY/gene_fitness_analysis/
+
+# License
+This project is licensed under the terms of the MIT license
