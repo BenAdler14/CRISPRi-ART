@@ -12,7 +12,7 @@ Benjamin A. Adler*,  Muntathar J. Al-Shimary*, Jaymin R. Patel, Emily Armbruster
 1. Clone repo into your directory 
 > git clone https://github.com/BenAdler14/CRISPRi-ART.git
 
-2. create a conda environment to import CRISPRi-ART
+2. create a conda environment to import CRISPRi-ART. Be patient. This can take a few minutes.
 > conda env create -f envs/CRISPRi-ART.yaml
 
 # Usage 
